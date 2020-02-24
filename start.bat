@@ -1,0 +1,1 @@
+java -jar ./vocabulary-0.0.1-SNAPSHOT.jar
